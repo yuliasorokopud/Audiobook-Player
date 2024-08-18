@@ -1,0 +1,83 @@
+{
+  "books": [
+    {
+      "id": "f06de32b-3144-4540-bcf1-e63a83225b6a",
+      "imageUrl": "https://a.storyblok.com/f/181188/720x1080/0d5afbeb5b/you-are-a-badass-at-making-money.jpg",
+      "chapters": [
+        {
+          "id": "92186600-6c9c-4463-8e7e-7c3936413e4a",
+          "audioUrl": "https://a.storyblok.com/f/181188/x/efc99baf69/0.wav",
+          "keyPointNumber": "Key point 1",
+          "description": "Define your own path to riches"
+        },
+        {
+          "id": "e300cc19-9296-4556-b3cd-364a4c90b44f",
+          "audioUrl": "https://a.storyblok.com/f/181188/x/8f2a53edfe/0-2.wav",
+          "keyPointNumber": "Key point 2",
+          "description": "Everybody arrives on the planet with unique desires, gifts, and talents."
+        },
+        {
+          "id": "f40c8110-1637-4deb-b46f-c256796a6e86",
+          "audioUrl": "https://a.storyblok.com/f/181188/x/0a58366e45/0-3.wav",
+          "keyPointNumber": "Key point 3",
+          "description": "Money is the energy that will help you discover your talents and realize your desires."
+        },
+        {
+          "id": "51b30649-ad15-4905-af1e-29ba869693b0",
+          "audioUrl": "https://a.storyblok.com/f/181188/x/a27f631479/0-4.wav",
+          "keyPointNumber": "Key point 4",
+          "description": "Focus on what's true and what matters to you, and you get to know that by being intuitive, listening to your heart, and following through with what brings you happiness."
+        },
+        {
+          "id": "b6cb7055-0f08-4475-9d42-93646fe4bd23",
+          "audioUrl": "https://a.storyblok.com/f/181188/x/f355c3c40e/0-5.wav",
+          "keyPointNumber": "Key point 5",
+          "description": "This summary will challenge you to reevaluate your mindset and tailor it to your actual needs."
+        }
+      ]
+    },
+    {
+      "id": "709717ec-4b9c-4395-bfa4-af7470c700af",
+      "imageUrl": "https://a.storyblok.com/f/181188/720x1080/e1b372e4d1/principles.jpg",
+      "chapters": [
+        {
+          "id": "8c06962d-c768-415a-9cbc-4ed8d866f75a",
+          "audioUrl": "https://a.storyblok.com/f/181188/x/9beed5e337/0-6.wav",
+          "keyPointNumber": "Key point 1",
+          "description": "Principles are the link between your actions and your values"
+        },
+        {
+          "id": "9a2f069a-fcf9-4da6-baae-6deceaff5ceb",
+          "duration": 75,
+          "audioUrl": "https://a.storyblok.com/f/181188/x/05a6895217/0-7.wav",
+          "keyPointNumber": "Key point 2",
+          "description": "To prove the efficacy of these principles, Ray Dalio explains the logic behind them"
+        },
+        {
+          "id": "e5067949-4c94-4fa4-a4f4-fee1bbb9bad5",
+          "audioUrl": "https://a.storyblok.com/f/181188/x/2c20314e08/0-8.wav",
+          "keyPointNumber": "Key point 3",
+          "description": "Principles allow you to reach decisions when you are faced with difficult choices."
+        },
+        {
+          "id": "62ab7431-2a4c-42f3-941b-e08bd1b96bf1",
+          "audioUrl": "https://a.storyblok.com/f/181188/x/09f2b5d577/0-9.wav",
+          "keyPointNumber": "Key point 4",
+          "description": "It is important to use pre-packaged principles to fabricate new ones while taking into account the goals that you are chasing."
+        },
+        {
+          "id": "51b30649-ad15-4905-af1e-29ba869693b0",
+          "audioUrl": "https://a.storyblok.com/f/181188/x/657ae5f51e/0-10.wav",
+          "keyPointNumber": "Key point 5",
+          "description": "The importance of this concept is evident in the lives of successful people who have set up principles that get them what they want."
+        },
+        {
+          "id": "31928a04-b8d5-438e-ac64-aabc49b3c8c4",
+          "audioUrl": "https://a.storyblok.com/f/181188/x/d1b442b8d7/0-11.wav",
+          "keyPointNumber": "Key point 6",
+          "description": "We will also talk about the things that make successful people different from others, a specific strategy Dalio learned for dealing with challenges, and much more."
+        }
+      ]
+    }
+  ]
+}
